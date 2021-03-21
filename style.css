@@ -1,0 +1,64 @@
+.container
+{
+  margin-bottom: 45px;
+}
+.carousel-item
+{
+    padding: 20px 40px;
+}
+/*Nav-nar css start from here*/
+.navbar
+{
+    background-color: #2e82d6!important;
+}
+.nav-link
+{
+    font-weight: bold;
+}
+
+/*carousel css start form here*/
+
+.carousel-bg
+{
+  background-color: #FEEAE9;
+}
+.price-info
+{
+    color:#FF136F ;
+}
+.btn-color
+{
+  padding: 10px 20px;
+  border: 2px solid #FF136F;
+  background-color: #FF136F;
+ background-image: linear-gradient(315deg #FF136F  0%, #f08efc 74%);
+ color: white;
+ font-weight: bold;
+ border-radius: 5px;
+}
+/*Catagories css start form here*/
+.cat1, .cat2, .cat3
+{
+    padding:10px 30px;
+    border-radius: 7px;
+}
+.cat1
+{
+    background-color: orange;
+}
+.cat2
+{
+    background-color:#FF136F ;
+}
+.cat3
+{
+    background-color: blue;
+}
+.catagories h1
+{
+  color: white;
+}
+.catagories img
+{
+    width:40%;
+}
